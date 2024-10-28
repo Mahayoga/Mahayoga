@@ -69,7 +69,7 @@
 
 # ⚡ Fun Fact
 - I am not a **robot**... literally 👀
-- Love? i think i found it ✨
+- Love? I found one but... whatever ✨
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" style="margin-top: 7rem;">
